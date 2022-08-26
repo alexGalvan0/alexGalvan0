@@ -1,3 +1,1 @@
-# Alex Galvan
-
-[Visit my portfolio](https://alex-galvan.com)
+![header](https://github.com/alexGalvan0/alexGalvan0/blob/main/github-header-image.png)
