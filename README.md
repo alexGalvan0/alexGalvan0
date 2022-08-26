@@ -1,2 +1,3 @@
-Hello!
-This is me learning about github!
+# Alex Galvan
+
+[Visit my portfolio](https://alex-galvan.com)
