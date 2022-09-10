@@ -1,1 +1,1 @@
-![header](https://github.com/alexGalvan0/alexGalvan0/blob/main/github-header-image.png)
+![header](https://raw.githubusercontent.com/alexGalvan0/alexGalvan0.github.io/main/img/github-header-image.png)
